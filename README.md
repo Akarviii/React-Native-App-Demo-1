@@ -9,22 +9,22 @@ px expo start)
 - Expo Go en el teléfono (Android/iOS)
 
 ## Instalación
-`ash
+`Bash
 npm install
 `
 
 ## Ejecución
-`ash
+`Bash
 npx expo start
 `
 - Elige LAN o Tunnel según tu red.
 - Escanea el QR con Expo Go.
 
 ## Estructura clave
-- pp/index.js — Página Principal, modal para nombre, links a pantallas.
-- pp/about.js — Pantalla de “Acerca de”.
-- pp/technologies.js — Lista interactiva con alerts por ítem.
-- pp/_layout.tsx — Stack de navegación y títulos.
+- App/index.js — Página Principal, modal para nombre, links a pantallas.
+- App/about.js — Pantalla de “Acerca de”.
+- App/technologies.js — Lista interactiva con alerts por ítem.
+- App/_layout.tsx — Stack de navegación y títulos.
 - src/styles/colors.js y src/styles/globalStyles.js — Paleta y estilos globales.
 - src/components/WelcomeCard.js, src/components/TechnologyItem.js — Componentes reutilizables.
 - src/data/mockData.js — Datos mock de tecnologías.
