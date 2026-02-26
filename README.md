@@ -36,5 +36,5 @@ npx expo start
 - Hot reload activo al guardar.
 
 ## Entregables
-- (Screenshots de la App Demo)[https://drive.google.com/file/d/14jmbhpBNCAS8oXDnMO6mVJvukapqHKF6/view?usp=sharing]
-- (Video de la App Demo)[https://youtube.com/shorts/kOQR91Iz0Pk?feature=share]
+- [Screenshots de la App Demo](https://drive.google.com/file/d/14jmbhpBNCAS8oXDnMO6mVJvukapqHKF6/view?usp=sharing)
+- [Video de la App Demo](https://youtube.com/shorts/kOQR91Iz0Pk?feature=share)
